@@ -1,2 +1,2 @@
-# netwitness-urlscan
-Context Menu for RSA NetWitness to search for a domain on urlscan.io
+# urlscan.io Context Menu for RSA NetWitness
+Configuration to add right-click lookup of domains in urlscan.io inside RSA NetWitness investigator.
