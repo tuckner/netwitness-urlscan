@@ -1,0 +1,26 @@
+{
+    "displayName": "URLScanIOSearch",
+    "cssClasses": [
+        "domain.dst",
+        "domain-dst",
+        "alias-host",
+        "alias.host"
+    ],
+    "description": "",
+    "type": "UAP.common.contextmenu.actions.URLContextAction",
+    "version": "1",
+    "modules": [
+        "investigation"
+    ],
+    "local": "false",
+    "groupName": "externalLookupGroup",
+    "urlFormat": "https://urlscan.io/search/#{0}*",
+    "disabled": "",
+    "id": "URLScanIOSearch",
+    "moduleClasses": [
+        "UAP.investigation.navigate.view.NavigationPanel",
+        "UAP.investigation.events.view.EventGrid"
+    ],
+    "openInNewTab": "true",
+    "order": "20"
+}
