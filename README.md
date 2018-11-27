@@ -1,7 +1,7 @@
 # Context for urlscan.io in RSA NetWitness
 Configuration to add right-click lookup of domains in urlscan.io inside RSA NetWitness investigator.
 
-![screenshot](https://raw.githubusercontent.com/tuckner/netwitness-urlscan/master/example.png)
+ <img src="https://raw.githubusercontent.com/tuckner/netwitness-urlscan/master/example.png" height="250">
 
 ## Setup
 
